@@ -1,1 +1,1 @@
-FROM baserow_data:/baserow/data
+FROM FROM baserow/baserow:1.13.1
